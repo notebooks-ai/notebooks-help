@@ -1,1 +1,1 @@
-# [👉 Create an issue to get help 👈](https://github.com/rmotr/notebooks-help/issues/new)
+# [👉 Create an issue to get help 👈](https://github.com/notebooks-ai/notebooks-help/issues/new)
